@@ -10,6 +10,7 @@ namespace EF6_CodeFirst
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
